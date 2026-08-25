@@ -14,14 +14,14 @@ A standalone authentication microservice built with **Node.js + Express**, provi
 
 ## Tech Stack
 
-| Layer     | Technology        |
-| --------- | ----------------- |
-| Runtime   | Node.js           |
-| Framework | Express           |
-| Database  | PostgreSQL        |
-| ORM       | Prisma            |
-| Auth      | JSON Web Tokens   |
-| Language  | TypeScript        |
+| Layer     | Technology      |
+| --------- | --------------- |
+| Runtime   | Node.js         |
+| Framework | Express         |
+| Database  | PostgreSQL      |
+| ORM       | Prisma          |
+| Auth      | JSON Web Tokens |
+| Language  | TypeScript      |
 
 ## Prerequisites
 
