@@ -1,8 +1,8 @@
 ---
 name: Bug Report
 about: Report something broken in the auth service
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: '[Bug]: '
+labels: ['bug', 'triage']
 assignees: []
 ---
 
@@ -45,12 +45,12 @@ assignees: []
 
 ## Environment
 
-| | |
-| --- | --- |
-| OS | <!-- e.g. macOS 15, Ubuntu 22.04 --> |
-| Node.js version | <!-- output of `node -v` --> |
-| PostgreSQL version | <!-- e.g. 16.x --> |
-| Environment | <!-- local / staging / production --> |
+|                    |                                       |
+| ------------------ | ------------------------------------- |
+| OS                 | <!-- e.g. macOS 15, Ubuntu 22.04 -->  |
+| Node.js version    | <!-- output of `node -v` -->          |
+| PostgreSQL version | <!-- e.g. 16.x -->                    |
+| Environment        | <!-- local / staging / production --> |
 
 ## Additional Context
 
