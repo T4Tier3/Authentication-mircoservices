@@ -1,8 +1,8 @@
 ---
 name: Feature Request
 about: Suggest a new feature or improvement for the auth service
-title: "[Feature]: "
-labels: ["enhancement", "triage"]
+title: '[Feature]: '
+labels: ['enhancement', 'triage']
 assignees: []
 ---
 

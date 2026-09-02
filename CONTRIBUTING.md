@@ -17,17 +17,18 @@ Open → Triaged → In Progress → In Review → Closed
 
 A maintainer triages new issues by applying:
 
-| Label        | Meaning                                        |
-| ------------ | ---------------------------------------------- |
-| `triage`     | Needs maintainer review (default on creation)  |
-| `bug`        | Something is broken                            |
-| `enhancement`| New feature or improvement                     |
-| `good first issue` | Good for newcomers                       |
-| `help wanted` | Extra attention needed                        |
-| `blocked`    | Waiting on another issue or decision           |
-| `security`   | Security-sensitive — handle with care          |
+| Label              | Meaning                                       |
+| ------------------ | --------------------------------------------- |
+| `triage`           | Needs maintainer review (default on creation) |
+| `bug`              | Something is broken                           |
+| `enhancement`      | New feature or improvement                    |
+| `good first issue` | Good for newcomers                            |
+| `help wanted`      | Extra attention needed                        |
+| `blocked`          | Waiting on another issue or decision          |
+| `security`         | Security-sensitive — handle with care         |
 
 During triage:
+
 1. Confirm the bug reproduces (or the feature fits the service scope).
 2. Remove `triage`, set priority (`P0`–`P3`), and add the relevant area label (`auth`, `db`, `middleware`, `validation`).
 3. For security issues, do **not** include secrets/tokens in reports. Report privately to a maintainer instead of filing a public issue.
